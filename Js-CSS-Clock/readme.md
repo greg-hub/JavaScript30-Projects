@@ -1,0 +1,1 @@
+Js and Css clock in GMT.
